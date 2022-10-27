@@ -1,0 +1,16 @@
+{
+	"results": [
+		{	
+			"id": 1, "text": "Google Cloud Platform",
+			"icon": ""
+		},
+		{ 
+			"id": 2, "text": "Amazon AWS",	
+			"icon": ""
+		},
+		{ 
+			"id": 3, "text": "Docker",
+			"icon": ""
+		}
+	]
+}

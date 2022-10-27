@@ -1,0 +1,82 @@
+Agama
+	id
+	nama
+Guru
+	id
+	nip
+	nama
+	tempat lahir
+	tanggal lahir
+	id agama
+	status
+	alamat
+	no telp
+	jenis kelamin
+Siswa
+	id
+	nis
+	nama
+	tempat lahir
+	tanggal lahir
+	id agama
+	alamat
+	jenis kelamin
+	id wali murid
+wali murid
+	id
+	nama ayah
+	pekerjaan
+	alamat
+	agama
+	no telp
+	nama ibu
+	pekerjaan
+	alamat
+	agama
+	no telp
+	nama wali
+	pekerjaan
+	alamat
+	agama
+	no telp
+	
+mapel
+	id
+	mapel
+semester tahun ajaran
+	id tahun ajaran
+	tahun
+	semester
+Kelas
+	id kelas
+	kelas
+detail kelas
+	id detail kelas
+	id kelas
+	id semester tahun ajaran
+	wali kelas
+	ketua kelas
+guru mapel
+	id guru mapel
+	id mapel
+	id guru
+kelas mapel
+	id detail kelas
+	id guru mapel
+kelas siswa
+	id detail kelas
+	id siswa
+nilai
+	id nilai
+	id semester thn ajaran
+	id detail kelas
+	id siswa
+	jumlah
+	rata-rata
+detail nilai
+	id nilai
+	id mapel
+	nilai
+
+
+
